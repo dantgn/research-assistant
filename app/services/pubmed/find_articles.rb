@@ -8,7 +8,7 @@ module Pubmed
 
     attr_accessor :limit, :search_query
 
-    def initialize(search_query:, limit: 10)
+    def initialize(search_query:, limit: 5)
       @search_query = search_query
       @limit = limit
     end

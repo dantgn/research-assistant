@@ -2,19 +2,32 @@
 
 ## Research Assistant
 
-This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
+This is an open-source project designed to help the scientific community discover and better understand relevant research articles.
 
 The application integrates with the public NCBI Entrez API to access the PubMed database and retrieve biomedical literature based on user queries.
 
-We use Artificial Intelligence to extract key information from scientific papers and generate concise, structured summaries, helping users quickly grasp the main findings without replacing the original sources.
+We use Artificial Intelligence to extract key information from scientific articles and generate concise, structured summaries, helping users quickly grasp the main findings without replacing the original sources.
 
 ### Current features:
 - Discovering relevant research articles
-- Extracting key information from papers
+- Extracting key information from articles
 
 <br>
 
-### How does it work
+###  API Endpoints
+
+#### Search articles - GET /api/v1/search_articles?query=topic&limit=10
+
+Accepts 2 parameters:
+- `query`: the topic or field of the articles you want to fetch.
+- `limit`: a maximum number of articles that will be returned. 
+  - It will return maximum of 5 articles When limit is null.
+  - It will return maximum of 20 articles when limit is higher than 20.
+
+This endpoint returns a JSON list of scientific articles with their detailed information, such as title, abstract, authors, etc.
+
+
+### How does internally work
 
 #### Groq API key for AI requests 
 

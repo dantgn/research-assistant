@@ -22,9 +22,9 @@ Accepts 2 parameters:
 - `query`: the topic or field of the articles you want to fetch.
 - `limit`: a maximum number of articles that will be returned. 
   - It will return maximum of 5 articles When limit is null.
-  - It will return maximum of 20 articles when limit is higher than 20.
+  - It will return maximum of 10 articles when limit is higher than 10.
 
-This endpoint returns a JSON list of scientific articles with their detailed information, such as title, abstract, authors, etc.
+This endpoint returns a JSON list of scientific articles with their detailed information, such as title, abstract, authors, url, and a detailed summary of the article.
 
 
 ### How does internally work

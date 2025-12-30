@@ -53,6 +53,8 @@ GEM
       activemodel (= 8.0.4)
       activesupport (= 8.0.4)
       timeout (>= 0.4.0)
+    activerecord-nulldb-adapter (1.2.2)
+      activerecord (>= 6.1, < 8.2)
     activestorage (8.0.4)
       actionpack (= 8.0.4)
       activejob (= 8.0.4)
@@ -173,8 +175,8 @@ GEM
     parser (3.3.10.0)
       ast (~> 2.4.1)
       racc
-    pg (1.6.2)
-    pg (1.6.2-x86_64-linux)
+    pg (1.6.3)
+    pg (1.6.3-x86_64-linux)
     pp (0.6.3)
       prettyprint
     prettyprint (0.2.0)
@@ -310,6 +312,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activerecord-nulldb-adapter
   bootsnap
   brakeman
   debug

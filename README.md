@@ -31,16 +31,24 @@ In order to test locally just run `rspec`
 
 #### Search articles - GET /api/v1/search_articles?query=topic&limit=10
 
-Accepts 2 parameters:
-- `query`: the topic or field of the articles you want to fetch.
-- `limit`: a maximum number of articles that will be returned. 
-  - It will return maximum of 5 articles When limit is null.
-  - It will return maximum of 10 articles when limit is higher than 10.
+Accepts one parameter:
+- `query`: the topic or research area of the articles you want to fetch.
 
 This endpoint returns a JSON list of scientific articles with their detailed information, such as title, abstract, authors, url, and a detailed summary of the article.
 
+#### SWAGGER API DOCUMENTATION
 
-### How does internally work
+![alt text](public/api-docs-example.png)
+
+We internally use RSwag which combines Swagger and Rspec, in order to create API documentation while creating automated tests with RSPEC.
+
+You can find it at [Swagger API Documentation](https://scilents-ai-9d55ccf54164.herokuapp.com/api-docs/index.html) to see the current endpoints, how they work, and what kind data they consume and provide.
+
+Locally you will find it at http://localhost:3000/api-docs/index.html
+
+When adding new request specs, run `SWAGGER_DRY_RUN=0 rake rswag:specs:swaggerize` to update the documentation.
+
+## How does the app works
 
 #### Groq API key for AI requests 
 

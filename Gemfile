@@ -29,7 +29,7 @@ gem 'kamal', require: false
 # Add HTTP asset caching/compression and X-Sendfile acceleration to Puma [https://github.com/basecamp/thruster/]
 gem 'thruster', require: false
 
-gem 'httparty', '~> 0.23.1'
+gem 'httparty', '~> 0.24.0'
 
 gem 'nokogiri', '~> 1.18', '>= 1.18.10'
 

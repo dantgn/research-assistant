@@ -5,12 +5,12 @@ module Pubmed
     BASE_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
     DB_NAME = 'pubmed'
     SORT_TYPE = 'relevance'
+    LIMIT_ARTICLES = 5
 
-    attr_accessor :limit, :search_query
+    attr_accessor :search_query
 
-    def initialize(search_query:, limit: 5)
+    def initialize(search_query:)
       @search_query = search_query
-      @limit = limit
     end
 
     # Search for Articles in Pubmed database based on a search query
@@ -30,7 +30,7 @@ module Pubmed
         db: DB_NAME,
         term: search_query,
         sort: SORT_TYPE,
-        retmax: limit,
+        retmax: LIMIT_ARTICLES,
       )
       uri
     end

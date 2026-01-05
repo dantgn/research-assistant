@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Manual">
+<PMID Version="1">32361569</PMID>
+<DateCompleted>
+<Year>2021</Year>
+<Month>03</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2021</Year>
+<Month>03</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1878-1705</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>84</Volume>
+<PubDate>
+<Year>2020</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>International immunopharmacology</Title>
+<ISOAbbreviation>Int Immunopharmacol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Breast cancer: Biology, biomarkers, and treatments.</ArticleTitle>
+<Pagination>
+<StartPage>106535</StartPage>
+<MedlinePgn>106535</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.intimp.2020.106535</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1567-5769(20)30476-8</ELocationID>
+<Abstract>
+<AbstractText>During the past recent years, various therapies emerged in the era of breast cancer. Breast cancer is a heterogeneous disease in which genetic and environmental factors are involved. Breast cancer stem cells (BCSCs) are the main player in the aggressiveness of different tumors and also, these cells are the main challenge in cancer treatment. Moreover, the major obstacle to achieve an effective treatment is resistance to therapies. There are various types of treatment for breast cancer (BC) patients. Therefore, in this review, we present the current treatments, novel approaches such as antibody-drug conjugation systems (ADCs), nanoparticles (albumin-, metal-, lipid-, polymer-, micelle-based nanoparticles), and BCSCs-based therapies. Furthermore, prognostic and predictive biomarkers will be discussed also biomarkers that have been applied by some tests such as Oncotype DX, Mamm αPrint, and uPA/PAI-1 are regarded as suitable prognostic and predictive factors in breast cancer.</AbstractText>
+<CopyrightInformation>Copyright © 2020 Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Barzaman</LastName>
+<ForeName>Khadijeh</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, School of Medicine, Iran University of Medical Sciences, Tehran, Iran; Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karami</LastName>
+<ForeName>Jafar</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, School of Medicine, Iran University of Medical Sciences, Tehran, Iran; Rheumatology Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zarei</LastName>
+<ForeName>Zeinab</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biomaterials and Tissue Engineering, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hosseinzadeh</LastName>
+<ForeName>Aysooda</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kazemi</LastName>
+<ForeName>Mohammad Hossein</ForeName>
+<Initials>MH</Initials>
+<AffiliationInfo>
+<Affiliation>Student Research Committee, Department of Immunology, School of Medicine, Iran University of Medical Science, Tehran, Iran; ATMP Department, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moradi-Kalbolandi</LastName>
+<ForeName>Shima</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Safari</LastName>
+<ForeName>Elahe</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, School of Medicine, Iran University of Medical Sciences, Tehran, Iran; Immunology Research Center, Iran University of Medical Sciences, Tehran, Iran. Electronic address: el.safari@yahoo.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Farahmand</LastName>
+<ForeName>Leila</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Recombinant Proteins Department, Breast Cancer Research Center, Motamed Cancer Institute, ACECR, Tehran, Iran. Electronic address: laylafarahmand@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2020</Year>
+<Month>04</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Int Immunopharmacol</MedlineTA>
+<NlmUniqueID>100965259</NlmUniqueID>
+<ISSNLinking>1567-5769</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+<QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+<QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+<QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D001943" MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+<QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+<QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+<QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+<QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Antibody-drug conjugation systems</Keyword>
+<Keyword MajorTopicYN="N">Breast cancer</Keyword>
+<Keyword MajorTopicYN="N">Breast cancer stem cells</Keyword>
+<Keyword MajorTopicYN="N">Immunotherapy</Keyword>
+<Keyword MajorTopicYN="N">Nanoparticles</Keyword>
+<Keyword MajorTopicYN="N">Treatment</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2020</Year>
+<Month>2</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2020</Year>
+<Month>4</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2020</Year>
+<Month>4</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2020</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2021</Year>
+<Month>3</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2020</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">32361569</ArticleId>
+<ArticleId IdType="doi">10.1016/j.intimp.2020.106535</ArticleId>
+<ArticleId IdType="pii">S1567-5769(20)30476-8</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+<PMID Version="1">35243878</PMID>
+<DateCompleted>
+<Year>2022</Year>
+<Month>03</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2022</Year>
+<Month>03</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1750-8460</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>83</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2022</Year>
+<Month>Feb</Month>
+<Day>02</Day>
+</PubDate>
+</JournalIssue>
+<Title>British journal of hospital medicine (London, England : 2005)</Title>
+<ISOAbbreviation>Br J Hosp Med (Lond)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Breast cancer: presentation, investigation and management.</ArticleTitle>
+<Pagination>
+<StartPage>1</StartPage>
+<EndPage>7</EndPage>
+<MedlinePgn>1-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.12968/hmed.2021.0459</ELocationID>
+<Abstract>
+<AbstractText>Breast cancer is the most common global malignancy and the leading cause of cancer deaths. Despite this, undergraduate and postgraduate exposure to breast cancer is limited, impacting on the ability of clinicians to accurately recognise, assess and refer appropriate patients. This article provides a comprehensive review of the pathology, epidemiology, clinical presentation, referral pathways and management of breast cancer in the UK. It also describes how to conduct a thorough clinical breast examination.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Katsura</LastName>
+<ForeName>Chie</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, Colchester Hospital, East Suffolk and North Essex NHS Foundation Trust, Essex, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ogunmwonyi</LastName>
+<ForeName>Innocent</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University Hospital Lewisham, Lewisham and Greenwich NHS Foundation Trust, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kankam</LastName>
+<ForeName>Hadyn Kn</ForeName>
+<Initials>HK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, Colchester Hospital, East Suffolk and North Essex NHS Foundation Trust, Essex, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saha</LastName>
+<ForeName>Sunita</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, Colchester Hospital, East Suffolk and North Essex NHS Foundation Trust, Essex, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2022</Year>
+<Month>02</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Hosp Med (Lond)</MedlineTA>
+<NlmUniqueID>101257109</NlmUniqueID>
+<ISSNLinking>1750-8460</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D001943" MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+<QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+<QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+<QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D008403" MajorTopicYN="N">Mass Screening</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D012017" MajorTopicYN="N">Referral and Consultation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Breast cancer</Keyword>
+<Keyword MajorTopicYN="N">Breast examination</Keyword>
+<Keyword MajorTopicYN="N">Breast surgery</Keyword>
+<Keyword MajorTopicYN="N">Hormone therapy</Keyword>
+<Keyword MajorTopicYN="N">Referral pathway</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2022</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>8</Hour>
+<Minute>43</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2022</Year>
+<Month>3</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2022</Year>
+<Month>3</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">35243878</ArticleId>
+<ArticleId IdType="doi">10.12968/hmed.2021.0459</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Manual">
+<PMID Version="1">35115765</PMID>
+<DateCompleted>
+<Year>2022</Year>
+<Month>03</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2022</Year>
+<Month>03</Month>
+<Day>28</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Electronic">1177-8881</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<PubDate>
+<Year>2022</Year>
+</PubDate>
+</JournalIssue>
+<Title>Drug design, development and therapy</Title>
+<ISOAbbreviation>Drug Des Devel Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Role of Progesterone Receptors in Breast Cancer.</ArticleTitle>
+<Pagination>
+<StartPage>305</StartPage>
+<EndPage>314</EndPage>
+<MedlinePgn>305-314</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2147/DDDT.S336643</ELocationID>
+<Abstract>
+<AbstractText>The progesterone receptor (PR) modulates estrogen receptors α (ERα) action in breast cancer; it is an upregulated target gene of ER, and its expression is dependent on estrogen. PR is also a valuable prognostic biomarker in breast cancer, especially in hormone-positive breast cancer. High expression of PR is more frequently observed in tumors with a better baseline prognosis (ie, luminal A) than tumors with a poor baseline prognosis (ie, luminal B). In the following review, we present the role of PR in breast cancer, including the genomic characteristics and pathways in breast cancer, PR and endocrine therapy.</AbstractText>
+<CopyrightInformation>© 2022 Li et al.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Zhuo</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, The First Affiliated Hospital of China Medical University, Shenyang City, Liaoning Province, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Hongrui</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, The First Affiliated Hospital of China Medical University, Shenyang City, Liaoning Province, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Siyan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, The First Affiliated Hospital of China Medical University, Shenyang City, Liaoning Province, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Pei</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Oncology, The First Affiliated Hospital of China Medical University, Shenyang City, Liaoning Province, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mao</LastName>
+<ForeName>Xiaoyun</ForeName>
+<Initials>X</Initials>
+<Identifier Source="ORCID">0000-0003-4755-0301</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, The First Affiliated Hospital of China Medical University, Shenyang City, Liaoning Province, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2022</Year>
+<Month>01</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>New Zealand</Country>
+<MedlineTA>Drug Des Devel Ther</MedlineTA>
+<NlmUniqueID>101475745</NlmUniqueID>
+<ISSNLinking>1177-8881</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011980">Receptors, Progesterone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+<QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+<QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+<QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+<QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D011980" MajorTopicYN="N">Receptors, Progesterone</DescriptorName>
+<QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">breast cancer</Keyword>
+<Keyword MajorTopicYN="N">endocrine therapy</Keyword>
+<Keyword MajorTopicYN="N">progesterone receptor</Keyword>
+</KeywordList>
+<CoiStatement>The authors declare no conflict of interests.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2021</Year>
+<Month>8</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2022</Year>
+<Month>1</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2022</Year>
+<Month>2</Month>
+<Day>4</Day>
+<Hour>5</Hour>
+<Minute>47</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2022</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2022</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pmc-release">
+<Year>2022</Year>
+<Month>1</Month>
+<Day>26</Day>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">35115765</ArticleId>
+<ArticleId IdType="pmc">PMC8801368</ArticleId>
+<ArticleId IdType="doi">10.2147/DDDT.S336643</ArticleId>
+<ArticleId IdType="pii">336643</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Asavasupreechar T, Saito R, Miki Y, Edwards DP, Boonyaratanakornkit V, Sasano H. Systemic distribution of progesterone receptor subtypes in human tissues. J Steroid Biochem Mol Biol. 2020;199:105599. doi:10.1016/j.jsbmb.2020.105599</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.jsbmb.2020.105599</ArticleId>
+<ArticleId IdType="pmc">PMC9968951</ArticleId>
+<ArticleId IdType="pubmed">31991170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hendrix GJ. SIDEBAR: addressing North Carolina Hispanics and Latinos affected by COVID-19: a grassroots approach. N C Med J. 2021;82(1):64–65. doi:10.18043/ncm.82.1.64</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.18043/ncm.82.1.64</ArticleId>
+<ArticleId IdType="pubmed">33397761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mosconi G, Carnevali O, Polzonetti AM. Ovarian development and sex steroid hormones during the reproductive cycle of Podarcis s. sicula Raf. Gynecol Endocrinol. 1991;5(1):7–13. doi:10.3109/09513599109049937</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.3109/09513599109049937</ArticleId>
+<ArticleId IdType="pubmed">1897381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Starvaggi Cucuzza L, Divari S, Mulasso C, Biolatti B, Cannizzo FT. Regucalcin expression in bovine tissues and its regulation by sex steroid hormones in accessory sex glands. PLoS One. 2014;9(11):e113950. doi:10.1371/journal.pone.0113950</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1371/journal.pone.0113950</ArticleId>
+<ArticleId IdType="pmc">PMC4240664</ArticleId>
+<ArticleId IdType="pubmed">25415588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Baños G, Guarner V, Pérez-Torres I. Sex steroid hormones, cardiovascular diseases and the metabolic syndrome. Cardiovasc Hematol Agents Med Chem. 2011;9(3):137–146. doi:10.2174/187152511797037547</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.2174/187152511797037547</ArticleId>
+<ArticleId IdType="pubmed">21745183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clark GM, Osborne CK, McGuire WL. Correlations between estrogen receptor, progesterone receptor, and patient characteristics in human breast cancer. J Clin Oncol. 1984;2(10):1102–1109. doi:10.1200/JCO.1984.2.10.1102</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.1984.2.10.1102</ArticleId>
+<ArticleId IdType="pubmed">6491696</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Weatherman RV, Fletterick RJ, Scanlan TS. Nuclear-receptor ligands and ligand-binding domains. Annu Rev Biochem. 1999;68:559–581. doi:10.1146/annurev.biochem.68.1.559</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1146/annurev.biochem.68.1.559</ArticleId>
+<ArticleId IdType="pubmed">10872460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mohammed H, Russell IA, Stark R, et al. Progesterone receptor modulates ERα action in breast cancer. Nature. 2015;523(7560):313–317. doi:10.1038/nature14583</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/nature14583</ArticleId>
+<ArticleId IdType="pmc">PMC4650274</ArticleId>
+<ArticleId IdType="pubmed">26153859</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Taraborrelli S. Physiology, production and action of progesterone. Acta Obstet Gynecol Scand. 2015;94(Suppl 161):8–16. doi:10.1111/aogs.12771</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1111/aogs.12771</ArticleId>
+<ArticleId IdType="pubmed">26358238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brisken C, Park S, Vass T, Lydon JP, O’Malley BW, Weinberg RA. A paracrine role for the epithelial progesterone receptor in mammary gland development. Proc Natl Acad Sci U S A. 1998;95(9):5076–5081. doi:10.1073/pnas.95.9.5076</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.95.9.5076</ArticleId>
+<ArticleId IdType="pmc">PMC20216</ArticleId>
+<ArticleId IdType="pubmed">9560231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mallepell S, Krust A, Chambon P, Brisken C. Paracrine signaling through the epithelial estrogen receptor alpha is required for proliferation and morphogenesis in the mammary gland. Proc Natl Acad Sci U S A. 2006;103(7):2196–2201. doi:10.1073/pnas.0510974103</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.0510974103</ArticleId>
+<ArticleId IdType="pmc">PMC1413744</ArticleId>
+<ArticleId IdType="pubmed">16452162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lydon JP, DeMayo FJ, Funk CR, et al. Mice lacking progesterone receptor exhibit pleiotropic reproductive abnormalities. Genes Dev. 1995;9(18):2266–2278. doi:10.1101/gad.9.18.2266</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1101/gad.9.18.2266</ArticleId>
+<ArticleId IdType="pubmed">7557380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brisken C. Progesterone signalling in breast cancer: a neglected hormone coming into the limelight. Nat Rev Cancer. 2013;13(6):385–396. doi:10.1038/nrc3518</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/nrc3518</ArticleId>
+<ArticleId IdType="pubmed">23702927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gellersen B, Fernandes MS, Brosens JJ. Non-genomic progesterone actions in female reproduction. Hum Reprod Update. 2009;15(1):119–138. doi:10.1093/humupd/dmn044</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/humupd/dmn044</ArticleId>
+<ArticleId IdType="pubmed">18936037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>McKenna NJ, Lanz RB, O’Malley BW. Nuclear receptor coregulators: cellular and molecular biology. Endocr Rev. 1999;20(3):321–344. doi:10.1210/edrv.20.3.0366</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/edrv.20.3.0366</ArticleId>
+<ArticleId IdType="pubmed">10368774</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lange CA, Richer JK, Horwitz KB. Hypothesis: progesterone primes breast cancer cells for cross-talk with proliferative or antiproliferative signals. Mol Endocrinol. 1999;13(6):829–836. doi:10.1210/mend.13.6.0290</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/mend.13.6.0290</ArticleId>
+<ArticleId IdType="pubmed">10379882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Khodarev NN, Roizman B, Weichselbaum RR. Molecular pathways: interferon/stat1 pathway: role in the tumor resistance to genotoxic stress and aggressive growth. Clin Cancer Res. 2012;18(11):3015–3021. doi:10.1158/1078-0432.CCR-11-3225</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-11-3225</ArticleId>
+<ArticleId IdType="pubmed">22615451</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Goodman ML, Trinca GM, Walter KR, et al. Progesterone receptor attenuates STAT1-mediated IFN signaling in breast cancer. J Immunol. 2019;202(10):3076–3086. doi:10.4049/jimmunol.1801152</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.4049/jimmunol.1801152</ArticleId>
+<ArticleId IdType="pmc">PMC6504603</ArticleId>
+<ArticleId IdType="pubmed">30936295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tan H, Yi L, Rote NS, Hurd WW, Mesiano S. Progesterone receptor-A and -B have opposite effects on proinflammatory gene expression in human myometrial cells: implications for progesterone actions in human pregnancy and parturition. J Clin Endocrinol Metab. 2012;97(5):E719–E730. doi:10.1210/jc.2011-3251</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/jc.2011-3251</ArticleId>
+<ArticleId IdType="pmc">PMC3339884</ArticleId>
+<ArticleId IdType="pubmed">22419721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Graham JD, Yeates C, Balleine RL, et al. Characterization of progesterone receptor A and B expression in human breast cancer. Cancer Res. 1995;55(21):5063–5068.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7585552</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Jacobsen BM, Schittone SA, Richer JK, Horwitz KB. Progesterone-independent effects of human progesterone receptors (PRs) in estrogen receptor-positive breast cancer: PR isoform-specific gene regulation and tumor biology. Mol Endocrinol. 2005;19(3):574–587. doi:10.1210/me.2004-0287</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/me.2004-0287</ArticleId>
+<ArticleId IdType="pubmed">15563544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Boonyaratanakornkit V, Bi Y, Rudd M, Edwards DP. The role and mechanism of progesterone receptor activation of extra-nuclear signaling pathways in regulating gene transcription and cell cycle progression. Steroids. 2008;73(9–10):922–928. doi:10.1016/j.steroids.2008.01.010</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.steroids.2008.01.010</ArticleId>
+<ArticleId IdType="pubmed">18321550</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Guiochon-Mantel A, Delabre K, Lescop P, Milgrom E. Nuclear localization signals also mediate the outward movement of proteins from the nucleus. Proc Natl Acad Sci U S A. 1994;91(15):7179–7183. doi:10.1073/pnas.91.15.7179</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.91.15.7179</ArticleId>
+<ArticleId IdType="pmc">PMC44362</ArticleId>
+<ArticleId IdType="pubmed">8041765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fu XD, Giretti MS, Baldacci C, et al. Extra-nuclear signaling of progesterone receptor to breast cancer cell movement and invasion through the actin cytoskeleton. PLoS One. 2008;3(7):e2790. doi:10.1371/journal.pone.0002790</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1371/journal.pone.0002790</ArticleId>
+<ArticleId IdType="pmc">PMC2464736</ArticleId>
+<ArticleId IdType="pubmed">18665217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Migliaccio A, Piccolo D, Castoria G, et al. Activation of the Src/p21ras/Erk pathway by progesterone receptor via cross-talk with estrogen receptor. EMBO J. 1998;17(7):2008–2018. doi:10.1093/emboj/17.7.2008</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/emboj/17.7.2008</ArticleId>
+<ArticleId IdType="pmc">PMC1170546</ArticleId>
+<ArticleId IdType="pubmed">9524123</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Merlino AA, Welsh TN, Tan H, et al. Nuclear progesterone receptors in the human pregnancy myometrium: evidence that parturition involves functional progesterone withdrawal mediated by increased expression of progesterone receptor-A. J Clin Endocrinol Metab. 2007;92(5):1927–1933. doi:10.1210/jc.2007-0077</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/jc.2007-0077</ArticleId>
+<ArticleId IdType="pubmed">17341556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Condon JC, Hardy DB, Kovaric K, Mendelson CR. Up-regulation of the progesterone receptor (PR)-C isoform in laboring myometrium by activation of nuclear factor-kappaB may contribute to the onset of labor through inhibition of PR function. Mol Endocrinol. 2006;20(4):764–775. doi:10.1210/me.2005-0242</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/me.2005-0242</ArticleId>
+<ArticleId IdType="pubmed">16339279</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mote PA, Bartow S, Tran N, Clarke CL. Loss of co-ordinate expression of progesterone receptors A and B is an early event in breast carcinogenesis. Breast Cancer Res Treat. 2002;72(2):163–172. doi:10.1023/A:1014820500738</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1023/A:1014820500738</ArticleId>
+<ArticleId IdType="pubmed">12038707</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Recouvreux MS, Diaz Bessone MI, Taruselli A, et al. Alterations in progesterone receptor isoform balance in normal and neoplastic breast cells modulates the stem cell population. Cells. 2020;9(9):2074. doi:10.3390/cells9092074</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.3390/cells9092074</ArticleId>
+<ArticleId IdType="pmc">PMC7564437</ArticleId>
+<ArticleId IdType="pubmed">32932770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hopp TA, Weiss HL, Hilsenbeck SG, et al. Breast cancer patients with progesterone receptor PR-A-rich tumors have poorer disease-free survival rates. Clin Cancer Res. 2004;10(8):2751–2760. doi:10.1158/1078-0432.CCR-03-0141</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-03-0141</ArticleId>
+<ArticleId IdType="pubmed">15102680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pateetin P, Hutvagner G, Bajan S, Padula MP, McGowan EM, Boonyaratanakornkit V. Triple SILAC identified progestin-independent and dependent PRA and PRB interacting partners in breast cancer. Sci Data. 2021;8(1):100. doi:10.1038/s41597-021-00884-0</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/s41597-021-00884-0</ArticleId>
+<ArticleId IdType="pmc">PMC8042118</ArticleId>
+<ArticleId IdType="pubmed">33846359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cork DM, Lennard TW, Tyson-Capper AJ. Alternative splicing and the progesterone receptor in breast cancer. Breast Cancer Res. 2008;10(3):207. doi:10.1186/bcr2097</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/bcr2097</ArticleId>
+<ArticleId IdType="pmc">PMC2481493</ArticleId>
+<ArticleId IdType="pubmed">18557990</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bonneterre J, Bosq J, Jamme P, et al. Tumour and cellular distribution of activated forms of PR in breast cancers: a novel immunohistochemical analysis of a large clinical cohort. ESMO Open. 2016;1(4):e000072. doi:10.1136/esmoopen-2016-000072</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1136/esmoopen-2016-000072</ArticleId>
+<ArticleId IdType="pmc">PMC5070234</ArticleId>
+<ArticleId IdType="pubmed">27843626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rojas PA, May M, Sequeira GR, et al. Progesterone receptor isoform ratio: a breast cancer prognostic and predictive factor for antiprogestin responsiveness. J Natl Cancer Inst. 2017;109(7). doi:10.1093/jnci/djw317</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/jnci/djw317</ArticleId>
+<ArticleId IdType="pmc">PMC6059180</ArticleId>
+<ArticleId IdType="pubmed">28376177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Conneely OM, Mulac-Jericevic B, DeMayo F, Lydon JP, O’Malley BW. Reproductive functions of progesterone receptors. Recent Prog Horm Res. 2002;57:339–355. doi:10.1210/rp.57.1.339</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/rp.57.1.339</ArticleId>
+<ArticleId IdType="pubmed">12017551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mulac-Jericevic B, Lydon JP, DeMayo FJ, Conneely OM. Defective mammary gland morphogenesis in mice lacking the progesterone receptor B isoform. Proc Natl Acad Sci U S A. 2003;100(17):9744–9749. doi:10.1073/pnas.1732707100</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.1732707100</ArticleId>
+<ArticleId IdType="pmc">PMC187836</ArticleId>
+<ArticleId IdType="pubmed">12897242</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pedroza DA, Subramani R, Lakshmanaswamy R. Classical and non-classical progesterone signaling in breast cancers. Cancers. 2020;12(9):2440. doi:10.3390/cancers12092440</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.3390/cancers12092440</ArticleId>
+<ArticleId IdType="pmc">PMC7563480</ArticleId>
+<ArticleId IdType="pubmed">32867363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bain DL, Franden MA, McManaman JL, Takimoto GS, Horwitz KB. The N-terminal region of the human progesterone A-receptor. Structural analysis and the influence of the DNA binding domain. J Biol Chem. 2000;275(10):7313–7320. doi:10.1074/jbc.275.10.7313</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1074/jbc.275.10.7313</ArticleId>
+<ArticleId IdType="pubmed">10702302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bain DL, Franden MA, McManaman JL, Takimoto GS, Horwitz KB. The N-terminal region of human progesterone B-receptors: biophysical and biochemical comparison to A-receptors. J Biol Chem. 2001;276(26):23825–23831. doi:10.1074/jbc.M102611200</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1074/jbc.M102611200</ArticleId>
+<ArticleId IdType="pubmed">11328821</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tetel MJ, Giangrande PH, Leonhardt SA, McDonnell DP, Edwards DP. Hormone-dependent interaction between the amino- and carboxyl-terminal domains of progesterone receptor in vitro and in vivo. Mol Endocrinol. 1999;13(6):910–924. doi:10.1210/mend.13.6.0300</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/mend.13.6.0300</ArticleId>
+<ArticleId IdType="pubmed">10379890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Giangrande PH, Kimbrel EA, Edwards DP, McDonnell DP. The opposing transcriptional activities of the two isoforms of the human progesterone receptor are due to differential cofactor binding. Mol Cell Biol. 2000;20(9):3102–3115. doi:10.1128/MCB.20.9.3102-3115.2000</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1128/MCB.20.9.3102-3115.2000</ArticleId>
+<ArticleId IdType="pmc">PMC85605</ArticleId>
+<ArticleId IdType="pubmed">10757795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heneghan AF, Connaghan-Jones KD, Miura MT, Bain DL. Coactivator assembly at the promoter: efficient recruitment of SRC2 is coupled to cooperative DNA binding by the progesterone receptor. Biochemistry. 2007;46(39):11023–11032. doi:10.1021/bi700850v</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1021/bi700850v</ArticleId>
+<ArticleId IdType="pubmed">17845055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Molenda-Figueira HA, Murphy SD, Shea KL, et al. Steroid receptor coactivator-1 from brain physically interacts differentially with steroid receptor subtypes. Endocrinology. 2008;149(10):5272–5279. doi:10.1210/en.2008-0048</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/en.2008-0048</ArticleId>
+<ArticleId IdType="pmc">PMC2582912</ArticleId>
+<ArticleId IdType="pubmed">18566116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hasan TN, Masoodi TA, Shafi G, Alshatwi AA, Sivashanmugham P. Affinity of estrogens for human progesterone receptor A and B monomers and risk of breast cancer: a comparative molecular modeling study. Adv Appl Bioinform Chem. 2011;4:29–36. doi:10.2147/AABC.S17371</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.2147/AABC.S17371</ArticleId>
+<ArticleId IdType="pmc">PMC3169952</ArticleId>
+<ArticleId IdType="pubmed">21918635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ilicic M, Zakar T, Paul JW. Epigenetic regulation of progesterone receptors and the onset of labour. Reprod Fertil Dev. 2019;31(6):1035–1048. doi:10.1071/RD18392</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1071/RD18392</ArticleId>
+<ArticleId IdType="pubmed">30944064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liu Z, Wong J, Tsai SY, Tsai MJ, O’Malley BW. Sequential recruitment of steroid receptor coactivator-1 (SRC-1) and p300 enhances progesterone receptor-dependent initiation and reinitiation of transcription from chromatin. Proc Natl Acad Sci U S A. 2001;98(22):12426–12431. doi:10.1073/pnas.231474798</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.231474798</ArticleId>
+<ArticleId IdType="pmc">PMC60070</ArticleId>
+<ArticleId IdType="pubmed">11606780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chung H, Sze S, Tay A, Lin VJ. Acetylation at lysine 183 of progesterone receptor by p300 accelerates DNA binding kinetics and transactivation of direct target genes. J Biol Chem. 2014;289(4):2180–2194. doi:10.1074/jbc.M113.517896</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1074/jbc.M113.517896</ArticleId>
+<ArticleId IdType="pmc">PMC3900964</ArticleId>
+<ArticleId IdType="pubmed">24302725</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Knutson T, Daniel A, Fan D, et al. Phosphorylated and sumoylation-deficient progesterone receptors drive proliferative gene signatures during breast cancer progression. Breast Cancer Res. 2012;14(3):R95. doi:10.1186/bcr3211</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/bcr3211</ArticleId>
+<ArticleId IdType="pmc">PMC3446358</ArticleId>
+<ArticleId IdType="pubmed">22697792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Faivre E, Daniel A, Hillard C, Lange C. Progesterone receptor rapid signaling mediates serine 345 phosphorylation and tethering to specificity protein 1 transcription factors. Mol Endocrinol. 2008;22(4):823–837. doi:10.1210/me.2007-0437</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/me.2007-0437</ArticleId>
+<ArticleId IdType="pmc">PMC2276470</ArticleId>
+<ArticleId IdType="pubmed">18202149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qiu M, Olsen A, Faivre E, Horwitz K, Lange C. Mitogen-activated protein kinase regulates nuclear association of human progesterone receptors. Mol Endocrinol. 2003;17(4):628–642. doi:10.1210/me.2002-0378</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/me.2002-0378</ArticleId>
+<ArticleId IdType="pubmed">12554776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hagan C, Daniel A, Dressing G, Lange CA. Role of phosphorylation in progesterone receptor signaling and specificity. Mol Cell Endocrinol. 2012;357:43–49. doi:10.1016/j.mce.2011.09.017</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.mce.2011.09.017</ArticleId>
+<ArticleId IdType="pmc">PMC3265648</ArticleId>
+<ArticleId IdType="pubmed">21945472</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Perumbilavil S, Piccardi A, Buchnev O, Kauranen M, Strangi G, Assanto G. All-optical guided-wave random laser in nematic liquid crystals. Optics Express. 2017;25(5):4672–4679. doi:10.1364/OE.25.004672</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1364/OE.25.004672</ArticleId>
+<ArticleId IdType="pubmed">28380738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Grimm S, Ward R, Obr A, et al. A role for site-specific phosphorylation of mouse progesterone receptor at serine 191 in vivo. Mol Endocrinol. 2014;28(12):2025–2037. doi:10.1210/me.2014-1206</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1210/me.2014-1206</ArticleId>
+<ArticleId IdType="pmc">PMC4250360</ArticleId>
+<ArticleId IdType="pubmed">25333515</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Malbeteau L, Poulard C, Languilaire C, et al. PRMT1 is critical for the transcriptional activity and the stability of the progesterone receptor. iScience. 2020;23(6):101236. doi:10.1016/j.isci.2020.101236</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.isci.2020.101236</ArticleId>
+<ArticleId IdType="pmc">PMC7305383</ArticleId>
+<ArticleId IdType="pubmed">32563156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Poulard C, Treilleux I, Lavergne E, et al. Activation of rapid oestrogen signalling in aggressive human breast cancers. EMBO Mol Med. 2012;4(11):1200–1213. doi:10.1002/emmm.201201615</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1002/emmm.201201615</ArticleId>
+<ArticleId IdType="pmc">PMC3494876</ArticleId>
+<ArticleId IdType="pubmed">23065768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clarke RB, Howell A, Potten CS, Anderson E. Dissociation between steroid receptor expression and cell proliferation in the human breast. Cancer Res. 1997;57(22):4987–4991.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9371488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Silva JS, Georgiade GS, Dilley WG, McCarty KS Sr, Wells SA Jr, McCarty KS Jr. Menstrual cycle-dependent variations of breast cyst fluid proteins and sex steroid receptors in the normal human breast. Cancer. 1983;51(7):1297–1302. doi:10.1002/1097-0142(19830401)51:7<1297::AID-CNCR2820510720>3.0.CO;2-Z</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1002/1097-0142(19830401)51:7<1297::AID-CNCR2820510720>3.0.CO;2-Z</ArticleId>
+<ArticleId IdType="pubmed">6825052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Beleut M, Rajaram RD, Caikovski M, et al. Two distinct mechanisms underlie progesterone-induced proliferation in the mammary gland. Proc Natl Acad Sci U S A. 2010;107(7):2989–2994. doi:10.1073/pnas.0915148107</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1073/pnas.0915148107</ArticleId>
+<ArticleId IdType="pmc">PMC2840294</ArticleId>
+<ArticleId IdType="pubmed">20133621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cenciarini ME, Proietti CJ. Molecular mechanisms underlying progesterone receptor action in breast cancer: insights into cell proliferation and stem cell regulation. Steroids. 2019;152:108503. doi:10.1016/j.steroids.2019.108503</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.steroids.2019.108503</ArticleId>
+<ArticleId IdType="pubmed">31562879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alferez DG, Simões BM, Howell SJ, Clarke RB. The role of steroid hormones in breast and effects on cancer stem cells. Curr Stem Cell Rep. 2018;4(1):81–94. doi:10.1007/s40778-018-0114-z</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/s40778-018-0114-z</ArticleId>
+<ArticleId IdType="pmc">PMC5866269</ArticleId>
+<ArticleId IdType="pubmed">29600163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Khan SA, Rogers MA, Obando JA, Tamsen A. Estrogen receptor expression of benign breast epithelium and its association with breast cancer. Cancer Res. 1994;54(4):993–997.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8313390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bach K, Pensa S, Zarocsinceva M, et al. Time-resolved single-cell analysis of Brca1 associated mammary tumourigenesis reveals aberrant differentiation of luminal progenitors. Nat Commun. 2021;12(1):1502. doi:10.1038/s41467-021-21783-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/s41467-021-21783-3</ArticleId>
+<ArticleId IdType="pmc">PMC7940427</ArticleId>
+<ArticleId IdType="pubmed">33686070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lim E, Vaillant F, Wu D, et al. Aberrant luminal progenitors as the candidate target population for basal tumor development in BRCA1 mutation carriers. Nat Med. 2009;15(8):907–913. doi:10.1038/nm.2000</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/nm.2000</ArticleId>
+<ArticleId IdType="pubmed">19648928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Calvo V, Beato M. BRCA1 counteracts progesterone action by ubiquitination leading to progesterone receptor degradation and epigenetic silencing of target promoters. Cancer Res. 2011;71(9):3422–3431. doi:10.1158/0008-5472.CAN-10-3670</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1158/0008-5472.CAN-10-3670</ArticleId>
+<ArticleId IdType="pubmed">21531767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chlebowski RT, Rohan TE, Manson JE, et al. Breast cancer after use of estrogen plus progestin and estrogen alone: analyses of data from 2 women’s health initiative randomized clinical trials. JAMA Oncol. 2015;1(3):296–305. doi:10.1001/jamaoncol.2015.0494</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1001/jamaoncol.2015.0494</ArticleId>
+<ArticleId IdType="pmc">PMC6871651</ArticleId>
+<ArticleId IdType="pubmed">26181174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fournier A, Fabre A, Mesrine S, Boutron-Ruault MC, Berrino F, Clavel-Chapelon F. Use of different postmenopausal hormone therapies and risk of histology- and hormone receptor-defined invasive breast cancer. J Clin Oncol. 2008;26(8):1260–1268. doi:10.1200/JCO.2007.13.4338</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2007.13.4338</ArticleId>
+<ArticleId IdType="pmc">PMC2346534</ArticleId>
+<ArticleId IdType="pubmed">18323549</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trabert B, Bauer DC, Buist DSM, et al. Association of circulating progesterone with breast cancer risk among postmenopausal women. JAMA Network Open. 2020;3(4):e203645. doi:10.1001/jamanetworkopen.2020.3645</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1001/jamanetworkopen.2020.3645</ArticleId>
+<ArticleId IdType="pmc">PMC7182797</ArticleId>
+<ArticleId IdType="pubmed">32329771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Wen DX, Xu Y-F, Mais DE, Goldman ME, McDonnell DP. The A and B isoforms of the human progesterone receptor operate through distinct signaling pathways within target cells. Mol Cell Biol. 1994;14(12):8356–8364. doi:10.1128/mcb.14.12.8356-8364.1994</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1128/mcb.14.12.8356-8364.1994</ArticleId>
+<ArticleId IdType="pmc">PMC359374</ArticleId>
+<ArticleId IdType="pubmed">7969170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zheng Z-Y, Bay B-H, Aw S-E, Lin VC. A novel antiestrogenic mechanism in progesterone receptor-transfected breast cancer cells. J Biol Chem. 2005;280(17):17480–17487. doi:10.1074/jbc.M501261200</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1074/jbc.M501261200</ArticleId>
+<ArticleId IdType="pubmed">15728178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Finlay-Schultz J, Gillen AE, Brechbuhl HM, et al. Breast cancer suppression by progesterone receptors is mediated by their modulation of estrogen receptors and RNA polymerase III. Cancer Res. 2017;77(18):4934–4946. doi:10.1158/0008-5472.CAN-16-3541</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1158/0008-5472.CAN-16-3541</ArticleId>
+<ArticleId IdType="pmc">PMC5600857</ArticleId>
+<ArticleId IdType="pubmed">28729413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gonzalez-Suarez E, Jacob AP, Jones J, et al. RANK ligand mediates progestin-induced mammary epithelial proliferation and carcinogenesis. Nature. 2010;468(7320):103–107. doi:10.1038/nature09495</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/nature09495</ArticleId>
+<ArticleId IdType="pubmed">20881963</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Perou CM, Sørlie T, Eisen MB, et al. Molecular portraits of human breast tumours. Nature. 2000;406(6797):747–752. doi:10.1038/35021093</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/35021093</ArticleId>
+<ArticleId IdType="pubmed">10963602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tran B, Bedard PL. Luminal-B breast cancer and novel therapeutic targets. Breast Cancer Res. 2011;13(6):221. doi:10.1186/bcr2904</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/bcr2904</ArticleId>
+<ArticleId IdType="pmc">PMC3326541</ArticleId>
+<ArticleId IdType="pubmed">22217398</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Wirapati P, Sotiriou C, Kunkel S, et al. Meta-analysis of gene expression profiles in breast cancer: toward a unified understanding of breast cancer subtyping and prognosis signatures. Breast Cancer Res. 2008;10(4):R65. doi:10.1186/bcr2124</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/bcr2124</ArticleId>
+<ArticleId IdType="pmc">PMC2575538</ArticleId>
+<ArticleId IdType="pubmed">18662380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parker JS, Mullins M, Cheang MC, et al. Supervised risk predictor of breast cancer based on intrinsic subtypes. J Clin Oncol. 2009;27(8):1160–1167. doi:10.1200/JCO.2008.18.1370</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2008.18.1370</ArticleId>
+<ArticleId IdType="pmc">PMC2667820</ArticleId>
+<ArticleId IdType="pubmed">19204204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Creighton CJ, Kent Osborne C, van de Vijver MJ, et al. Molecular profiles of progesterone receptor loss in human breast tumors. Breast Cancer Res Treat. 2009;114(2):287–299. doi:10.1007/s10549-008-0017-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/s10549-008-0017-2</ArticleId>
+<ArticleId IdType="pmc">PMC2635926</ArticleId>
+<ArticleId IdType="pubmed">18425577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prat A, Cheang MC, Martín M, et al. Prognostic significance of progesterone receptor-positive tumor cells within immunohistochemically defined luminal A breast cancer. J Clin Oncol. 2013;31(2):203–209. doi:10.1200/JCO.2012.43.4134</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2012.43.4134</ArticleId>
+<ArticleId IdType="pmc">PMC3532392</ArticleId>
+<ArticleId IdType="pubmed">23233704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Selli C, Dixon JM, Sims AH. Accurate prediction of response to endocrine therapy in breast cancer patients: current and future biomarkers. Breast Cancer Res. 2016;18(1):118. doi:10.1186/s13058-016-0779-0</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/s13058-016-0779-0</ArticleId>
+<ArticleId IdType="pmc">PMC5131493</ArticleId>
+<ArticleId IdType="pubmed">27903276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Li Y, Yang D, Yin X, et al. Clinicopathological characteristics and breast cancer-specific survival of patients with single hormone receptor-positive breast cancer. JAMA Network Open. 2020;3(1):e1918160. doi:10.1001/jamanetworkopen.2019.18160</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1001/jamanetworkopen.2019.18160</ArticleId>
+<ArticleId IdType="pmc">PMC6991239</ArticleId>
+<ArticleId IdType="pubmed">31899528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cui X, Schiff R, Arpino G, Osborne CK, Lee AV. Biology of progesterone receptor loss in breast cancer and its implications for endocrine therapy. J Clin Oncol. 2005;23(30):7721–7735. doi:10.1200/JCO.2005.09.004</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2005.09.004</ArticleId>
+<ArticleId IdType="pubmed">16234531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arpino G, Weiss H, Lee AV, et al. Estrogen receptor-positive, progesterone receptor-negative breast cancer: association with growth factor receptor expression and tamoxifen resistance. J Natl Cancer Inst. 2005;97(17):1254–1261. doi:10.1093/jnci/dji249</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/jnci/dji249</ArticleId>
+<ArticleId IdType="pubmed">16145046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rakha EA, El-Sayed ME, Green AR, et al. Biologic and clinical characteristics of breast cancer with single hormone receptor positive phenotype. J Clin Oncol. 2007;25(30):4772–4778. doi:10.1200/JCO.2007.12.2747</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2007.12.2747</ArticleId>
+<ArticleId IdType="pubmed">17876012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blows FM, Driver KE, Schmidt MK, et al. Subtyping of breast cancer by immunohistochemistry to investigate a relationship between subtype and short and long term survival: a collaborative analysis of data for 10,159 cases from 12 studies. PLoS Med. 2010;7(5):e1000279. doi:10.1371/journal.pmed.1000279</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1371/journal.pmed.1000279</ArticleId>
+<ArticleId IdType="pmc">PMC2876119</ArticleId>
+<ArticleId IdType="pubmed">20520800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bardou VJ, Arpino G, Elledge RM, Osborne CK, Clark GM. Progesterone receptor status significantly improves outcome prediction over estrogen receptor status alone for adjuvant endocrine therapy in two large breast cancer databases. J Clin Oncol. 2003;21(10):1973–1979. doi:10.1200/JCO.2003.09.099</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2003.09.099</ArticleId>
+<ArticleId IdType="pubmed">12743151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Janku F, Wheler JJ, Westin SN, et al. PI3K/AKT/mTOR inhibitors in patients with breast and gynecologic malignancies harboring PIK3CA mutations. J Clin Oncol. 2012;30(8):777–782. doi:10.1200/JCO.2011.36.1196</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2011.36.1196</ArticleId>
+<ArticleId IdType="pmc">PMC3295566</ArticleId>
+<ArticleId IdType="pubmed">22271473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Maruyama N, Miyoshi Y, Taguchi T, Tamaki Y, Monden M, Noguchi S. Clinicopathologic analysis of breast cancers with PIK3CA mutations in Japanese women. Clin Cancer Res. 2007;13(2 Pt 1):408–414. doi:10.1158/1078-0432.CCR-06-0267</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-06-0267</ArticleId>
+<ArticleId IdType="pubmed">17202311</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cizkova M, Susini A, Vacher S, et al. PIK3CA mutation impact on survival in breast cancer patients and in ERα, PR and ERBB2-based subgroups. Breast Cancer Res. 2012;14(1):R28. doi:10.1186/bcr3113</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1186/bcr3113</ArticleId>
+<ArticleId IdType="pmc">PMC3496146</ArticleId>
+<ArticleId IdType="pubmed">22330809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dowsett M, Houghton J, Iden C, et al. Benefit from adjuvant tamoxifen therapy in primary breast cancer patients according oestrogen receptor, progesterone receptor, EGF receptor and HER2 status. Ann Oncol. 2006;17(5):818–826. doi:10.1093/annonc/mdl016</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/annonc/mdl016</ArticleId>
+<ArticleId IdType="pubmed">16497822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dowsett M, Cuzick J, Wale C, Howell T, Houghton J, Baum M. Retrospective analysis of time to recurrence in the ATAC trial according to hormone receptor status: an hypothesis-generating study. J Clin Oncol. 2005;23(30):7512–7517. doi:10.1200/JCO.2005.01.4829</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.2005.01.4829</ArticleId>
+<ArticleId IdType="pubmed">16234518</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osborne CK, Schiff R, Arpino G, Lee AS, Hilsenbeck VG. Endocrine responsiveness: understanding how progesterone receptor can be used to select endocrine therapy. Breast. 2005;14(6):458–465. doi:10.1016/j.breast.2005.08.024</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.breast.2005.08.024</ArticleId>
+<ArticleId IdType="pubmed">16236516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lin WB, Chovelon JM, Jaffrezic-Renault N. Fiber-optic surface-plasmon resonance for the determination of thickness and optical constants of thin metal films. Appl Opt. 2000;39(19):3261–3265. doi:10.1364/AO.39.003261</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1364/AO.39.003261</ArticleId>
+<ArticleId IdType="pubmed">18349891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pagani O, Francis PA, Fleming GF, et al. Absolute improvements in freedom from distant recurrence to tailor adjuvant endocrine therapies for premenopausal women: results from TEXT and SOFT. J Clin Oncol. 2020;38(12):1293–1303. doi:10.1200/JCO.18.01967</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1200/JCO.18.01967</ArticleId>
+<ArticleId IdType="pmc">PMC7164485</ArticleId>
+<ArticleId IdType="pubmed">31618131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Francis PA, Pagani O, Fleming GF, et al. Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med. 2018;379(2):122–137. doi:10.1056/NEJMoa1803164</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1056/NEJMoa1803164</ArticleId>
+<ArticleId IdType="pmc">PMC6193457</ArticleId>
+<ArticleId IdType="pubmed">29863451</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gao JJ, Cheng J, Bloomquist E, et al. CDK4/6 inhibitor treatment for patients with hormone receptor-positive, HER2-negative, advanced or metastatic breast cancer: a US Food and Drug Administration pooled analysis. Lancet Oncol. 2020;21(2):250–260. doi:10.1016/S1470-2045(19)30804-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/S1470-2045(19)30804-6</ArticleId>
+<ArticleId IdType="pubmed">31859246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>De Maeyer L, Van Limbergen E, De Nys K, et al. Does estrogen receptor negative/progesterone receptor positive breast carcinoma exist? J Clin Oncol. 2008;26(2):335–6; author reply 6–8.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18182677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kornaga EN, Klimowicz AC, Guggisberg N, et al. Evaluation of three commercial progesterone receptor assays in a single tamoxifen-treated breast cancer cohort. Mod Pathol. 2016;29(12):1492–1500. doi:10.1038/modpathol.2016.151</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/modpathol.2016.151</ArticleId>
+<ArticleId IdType="pubmed">27562489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nadji M, Gomez-Fernandez C, Ganjei-Azar P, Morales AR. Immunohistochemistry of estrogen and progesterone receptors reconsidered: experience with 5993 breast cancers. Am J Clin Pathol. 2005;123(1):21–27.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15762276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kornaga EN, Klimowicz AC, Guggisberg N, et al. A systematic comparison of three commercial estrogen receptor assays in a single clinical outcome breast cancer cohort. Mod Pathol. 2016;29(8):799–809. doi:10.1038/modpathol.2016.74</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/modpathol.2016.74</ArticleId>
+<ArticleId IdType="pubmed">27125355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rhodes A, Jasani B. The oestrogen receptor-negative/progesterone receptor-positive breast tumour: a biological entity or a technical artefact? J Clin Pathol. 2009;62(1):95–96. doi:10.1136/jcp.2008.060723</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1136/jcp.2008.060723</ArticleId>
+<ArticleId IdType="pubmed">19103868</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Manual">
+<PMID Version="1">34595234</PMID>
+<DateCompleted>
+<Year>2022</Year>
+<Month>01</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2024</Year>
+<Month>04</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Electronic">2314-6141</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2021</Volume>
+<PubDate>
+<Year>2021</Year>
+</PubDate>
+</JournalIssue>
+<Title>BioMed research international</Title>
+<ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Review of Breast Cancer Pathologigcal Image Processing.</ArticleTitle>
+<Pagination>
+<StartPage>1994764</StartPage>
+<MedlinePgn>1994764</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">1994764</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1155/2021/1994764</ELocationID>
+<Abstract>
+<AbstractText>Breast cancer is one of the most common malignancies. Pathological image processing of breast has become an important means for early diagnosis of breast cancer. Using medical image processing to assist doctors to detect potential breast cancer as early as possible has always been a hot topic in the field of medical image diagnosis. In this paper, a breast cancer recognition method based on image processing is systematically expounded from four aspects: breast cancer detection, image segmentation, image registration, and image fusion. The achievements and application scope of supervised learning, unsupervised learning, deep learning, CNN, and so on in breast cancer examination are expounded. The prospect of unsupervised learning and transfer learning for breast cancer diagnosis is prospected. Finally, the privacy protection of breast cancer patients is put forward.</AbstractText>
+<CopyrightInformation>Copyright © 2021 Ya-nan Zhang et al.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Ya-Nan</ForeName>
+<Initials>YN</Initials>
+<Identifier Source="ORCID">0000-0002-0633-826X</Identifier>
+<AffiliationInfo>
+<Affiliation>School of Computer Science and Technology, Harbin University of Science and Technology, Harbin 150080, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>HRG International Institute (Hefei) of Research and Innovation, Hefei 230000, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xia</LastName>
+<ForeName>Ke-Rui</ForeName>
+<Initials>KR</Initials>
+<Identifier Source="ORCID">0000-0001-9199-7309</Identifier>
+<AffiliationInfo>
+<Affiliation>HRG International Institute (Hefei) of Research and Innovation, Hefei 230000, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Chang-Yi</ForeName>
+<Initials>CY</Initials>
+<AffiliationInfo>
+<Affiliation>School of Computer Science and Technology, Harbin University of Science and Technology, Harbin 150080, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Ben-Li</ForeName>
+<Initials>BL</Initials>
+<AffiliationInfo>
+<Affiliation>School of Computer Science and Technology, Harbin University of Science and Technology, Harbin 150080, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Bing</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>School of Computer Science and Technology, Harbin University of Science and Technology, Harbin 150080, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2021</Year>
+<Month>09</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Biomed Res Int</MedlineTA>
+<NlmUniqueID>101600173</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+<QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+<QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+<QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D007091" MajorTopicYN="Y">Image Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>The authors declare that they have no conflicts of interest.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2021</Year>
+<Month>7</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2021</Year>
+<Month>8</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2021</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>7</Hour>
+<Minute>36</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2021</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2022</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pmc-release">
+<Year>2021</Year>
+<Month>9</Month>
+<Day>20</Day>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">34595234</ArticleId>
+<ArticleId IdType="pmc">PMC8478535</ArticleId>
+<ArticleId IdType="doi">10.1155/2021/1994764</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Elston C. W., Ellis I. O., Pinder S. E. Pathological prognostic factors in breast cancer. Critical Reviews in Oncology/Hematology . 1999;31(3):209–223. doi: 10.1016/S1040-8428(99)00034-7.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/S1040-8428(99)00034-7</ArticleId>
+<ArticleId IdType="pubmed">10532196</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Udupa J. K., Herman G. T. Medical image reconstruction, processing, visualization, and analysis: the MIPG perspective. IEEE Transactions on Medical Imaging . 2002;21(4):281–295. doi: 10.1109/TMI.2002.1000253.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2002.1000253</ArticleId>
+<ArticleId IdType="pubmed">12022617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Roth H. R., Lu L., Liu J., et al. Improving computer-aided detection using convolutional neural networks and random view aggregation. IEEE Transactions on Medical Imaging . 2016;35(5):1170–1181. doi: 10.1109/TMI.2015.2482920.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2015.2482920</ArticleId>
+<ArticleId IdType="pmc">PMC7340334</ArticleId>
+<ArticleId IdType="pubmed">26441412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cserni G., Amendoeira I., Apostolikas N., et al. Pathological work-up of sentinel lymph nodes in breast cancer. Review of current data to be considered for the formulation of guidelines. European Journal of Cancer . 2003;39(12):1654–1667. doi: 10.1016/s0959-8049(03)00203-x.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/s0959-8049(03)00203-x</ArticleId>
+<ArticleId IdType="pubmed">12888359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hou Y. Breast cancer pathological image classification based on deep learning. Journal of X-Ray Science and Technology . 2020;28(4):727–738. doi: 10.3233/XST-200658.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.3233/XST-200658</ArticleId>
+<ArticleId IdType="pubmed">32390646</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Wu S. G., Wang J., Lei J., et al. Prognostic validation and therapeutic decision-making of the AJCC eighth pathological prognostic staging for T3N0 breast cancer after mastectomy. Clinical and Translational Medicine . 2020;10(1):125–136. doi: 10.1002/ctm2.3.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1002/ctm2.3</ArticleId>
+<ArticleId IdType="pmc">PMC7240839</ArticleId>
+<ArticleId IdType="pubmed">32508053</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mcinerney T., Terzopoulos D. Deformable models in medical image analysis: a survey. Medical Image Analysis . 1996;1(2):91–108. doi: 10.1016/S1361-8415(96)80007-7.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/S1361-8415(96)80007-7</ArticleId>
+<ArticleId IdType="pubmed">9873923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Litjens G., Kooi T., Bejnordi B. E., et al. A survey on deep learning in medical image analysis. Medical Image Analysis . 2017;42:60–88. doi: 10.1016/j.media.2017.07.005.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.media.2017.07.005</ArticleId>
+<ArticleId IdType="pubmed">28778026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>(ne Lehmann) T. M. D., Handels H., (ne Fritzsche) K. H. M. H., et al. Viewpoints on medical image processing: from science to application. Current Medical Imaging Reviews . 2013;9(2):79–88. doi: 10.2174/1573405611309020002.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.2174/1573405611309020002</ArticleId>
+<ArticleId IdType="pmc">PMC3782694</ArticleId>
+<ArticleId IdType="pubmed">24078804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Setio A., Ciompi F., Litjens G., et al. Pulmonary nodule detection in CT Images: False Positive Reduction using Multi-View convolutional networks. Medical Imaging . 2016;35(5):1160–1169. doi: 10.1109/TMI.2016.2536809.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2536809</ArticleId>
+<ArticleId IdType="pubmed">26955024</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Guo Z., Liu H., Ni H., et al. Publisher correction: a fast and refined cancer regions segmentation framework in whole-slide breast pathological images. Scientific Reports . 2020;10(1):p. 8591. doi: 10.1038/s41598-020-65026-9.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1038/s41598-020-65026-9</ArticleId>
+<ArticleId IdType="pmc">PMC7239841</ArticleId>
+<ArticleId IdType="pubmed">32433560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Roth H. R., Lu L., Seff A., et al. A new 2.5D representation for lymph node detection using random sets of deep convolutional neural network observations. In: Golland P., Hata N., Barillot C., Hornegger J., Howe R., editors. Medical Image Computing and Computer-Assisted Intervention – MICCAI 2014. MICCAI 2014 . Vol. 8673. Cham: Springer; 2014. pp. 520–527. (Lecture Notes in Computer Science).</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/978-3-319-10404-1_65</ArticleId>
+<ArticleId IdType="pmc">PMC4295635</ArticleId>
+<ArticleId IdType="pubmed">25333158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Moeskops P., Viergever M. A., Mendrik A. M., de Vries L. S., Benders M. J. N. L., Isgum I. Automatic segmentation of MR brain images with a convolutional neural network. IEEE Transactions on Medical Imaging . 2016;35(5):1252–1261. doi: 10.1109/TMI.2016.2548501.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2548501</ArticleId>
+<ArticleId IdType="pubmed">27046893</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pham D. L., Xu C., Prince J. L. Current methods in medical image segmentation. Annual Review of Biomedical Engineering . 2000;2(1):315–337. doi: 10.1146/annurev.bioeng.2.1.315.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1146/annurev.bioeng.2.1.315</ArticleId>
+<ArticleId IdType="pubmed">11701515</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lehmann T. M., Gonner C., Spitzer K. Survey: interpolation methods in medical image processing. IEEE Transactions on Medical Imaging . 1999;18(11):1049–1075. doi: 10.1109/42.816070.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/42.816070</ArticleId>
+<ArticleId IdType="pubmed">10661324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cootes T. F., Taylor C. J. Statistical models of appearance for medical image analysis and computer vision. Proceedings of SPIE - The International Society for Optical Engineering . 2001;4322(1)</Citation>
+</Reference>
+<Reference>
+<Citation>Ghesu F. C., Georgescu B., Mansi T., Neumann D., Hornegger J., Comaniciu D. An artificial agent for anatomical landmark detection in medical images. In: Ourselin S., Joskowicz L., Sabuncu M., Unal G., Wells W., editors. Medical Image Computing and Computer-Assisted Intervention - MICCAI 2016. MICCAI 2016 . Vol. 9902. Cham: Springer; 2016. (Lecture Notes in Computer Science).</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/978-3-319-46726-9_27</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ghesu F. C., Krubasik E., Georgescu B., et al. Marginal space deep learning: efficient architecture for volumetric image parsing. IEEE Transactions on Medical Imaging . 2016;35(5):1217–1228. doi: 10.1109/TMI.2016.2538802.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2538802</ArticleId>
+<ArticleId IdType="pubmed">27046846</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brosch T., Tang L. Y. W., Yoo Y., Li D. K. B., Traboulsee A., Tam R. Deep 3D convolutional encoder networks with shortcuts for multiscale feature integration applied to multiple sclerosis lesion segmentation. Medical Imaging . 2016;35(5):1229–1239. doi: 10.1109/TMI.2016.2528821.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2528821</ArticleId>
+<ArticleId IdType="pubmed">26886978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Wahab N., Khan A., Lee Y. S. Transfer learning based deep CNN for segmentation and detection of mitoses in breast cancer histopathological images. Microscopy . 2019;68(3):216–233. doi: 10.1093/jmicro/dfz002.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1093/jmicro/dfz002</ArticleId>
+<ArticleId IdType="pubmed">30722018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sohail A., Mukhtar M. A., Khan A., Zafar M. M., Zameer A., Khan S. Deep Object Detection Based Mitosis Analysis in Breast Cancer Histopathological Images. (2020), http://arxiv.org/abs/2003.08803.</Citation>
+</Reference>
+<Reference>
+<Citation>Milletari F., Navab N., Ahmadi S. A. V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation. 2016 Fourth International Conference on 3D Vision (3DV); Stanford, CA, USA: 2016. pp. 565–571.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/3DV.2016.79</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ishihara S., Ishihara K., Nagamachi M., Matsubara Y. An analysis of Kansei structure on shoes using self-organizing neural networks. International Journal of Industrial Ergonomics . 1997;19(2):93–104. doi: 10.1016/S0169-8141(96)00006-6.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/S0169-8141(96)00006-6</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Maintz J. B., Viergever M. A. A survey of medical image registration. Computer & Digital Engineering . 2009;33(1):140–144.</Citation>
+</Reference>
+<Reference>
+<Citation>Hill D. L. G., Batchelor P. G., Holden M., Hawkes D. J. Medical image registration. Physics in Medicine & Biology . 2008;31(4):1–45.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11277237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Greenspan H., van Ginneken B., Summers R. M. Guest editorial deep learning in medical imaging: overview and future promise of an exciting new technique. IEEE Transactions on Medical Imaging . 2016;35(5):1153–1159. doi: 10.1109/TMI.2016.2553401.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2553401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kamnitsas K., Ledig C., Newcombe V. F. J., et al. Efficient multi-scale 3D CNN with fully connected CRF for accurate brain lesion segmentation. Medical Image Analysis . 2016;36:p. 61.</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27865153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tajbakhsh N., Shin J. Y., Gurudu S. R., et al. Convolutional neural networks for medical image analysis: full training or fine tuning. IEEE Transactions on Medical Imaging . 2016;35(5):1299–1312. doi: 10.1109/TMI.2016.2535302.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2535302</ArticleId>
+<ArticleId IdType="pubmed">26978662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anthimopoulos M., Christodoulidis S., Ebner L., Christe A., Mougiakakou S. Lung pattern classification for interstitial lung diseases using a deep convolutional neural network. IEEE Transactions on Medical Imaging . 2016;35(5):1207–1216. doi: 10.1109/TMI.2016.2535865.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TMI.2016.2535865</ArticleId>
+<ArticleId IdType="pubmed">26955021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hoo-Chang Shin, Orton M. R., Collins D. J., Doran S. J., Leach M. O. Stacked autoencoders for unsupervised feature learning and multiple organ detection in a pilot study using 4D patient data. IEEE Transactions on Pattern Analysis and Machine Intelligence . 2013;35(8):1930–1943. doi: 10.1109/TPAMI.2012.277.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/TPAMI.2012.277</ArticleId>
+<ArticleId IdType="pubmed">23787345</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sahiner B., Heang-Ping Chan, Petrick N., et al. Classification of mass and normal breast tissue: a convolution neural network classifier with spatial domain and texture images. IEEE Transactions on Medical Imaging . 1996;15(5):598–610. doi: 10.1109/42.538937.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/42.538937</ArticleId>
+<ArticleId IdType="pubmed">18215941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nie D., Wang L., Gao Y., Shen D. Fully convolutional networks for multi-modality isointense infant brain image segmentation. 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI); 2016; Prague, Czech Republic. pp. 1342–1345.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1109/ISBI.2016.7493515</ArticleId>
+<ArticleId IdType="pmc">PMC5031138</ArticleId>
+<ArticleId IdType="pubmed">27668065</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Roth H. R., Lu L., Farag A., et al. DeepOrgan: multi-level deep convolutional networks for automated pancreas segmentation. In: Navab N., Hornegger J., Wells W., Frangi A., editors. Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015. MICCAI 2015 . Vol. 9349. Cham: Springer; 2015. pp. 556–564. (Lecture Notes in Computer Science).</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/978-3-319-24553-9_68</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Wang D., Khosla A., Gargeya R., Irshad H., Beck A. H. Deep Learning for Identifying Metastatic Breast Cancer. (2016), http://arxiv.org/abs/1606.05718.</Citation>
+</Reference>
+<Reference>
+<Citation>Li R., Zhang W., Suk H. I., et al. Medical Image Computing and Computer-Assisted Intervention – MICCAI 2014 . Vol. 8675. Cham: Springer; 2014. Deep learning based imaging data completion for improved brain disease diagnosis; pp. 305–312. (Lecture Notes in Computer Science).</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/978-3-319-10443-0_39</ArticleId>
+<ArticleId IdType="pmc">PMC4464771</ArticleId>
+<ArticleId IdType="pubmed">25320813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>YaNan Z., MingCheng Q., YuPeng L. Recommendation method based on social topology for cold-start users. Journal of Zhejiang University(Engineering Science) . 2016;50:1001–1008.</Citation>
+</Reference>
+<Reference>
+<Citation>Bar Y., Diamant I., Wolf L., Greenspan H. Medical Imaging 2015: Computer-Aided Diagnosis . International Society for Optics and Photonics; 2015. Deep learning with non-medical training used for chest pathology identification.</Citation>
+</Reference>
+<Reference>
+<Citation>Kooi T., Litjens G., van Ginneken B., et al. Large scale deep learning for computer aided detection of mammographic lesions. Medical Image Analysis . 2017;35:303–312. doi: 10.1016/j.media.2016.07.007.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1016/j.media.2016.07.007</ArticleId>
+<ArticleId IdType="pubmed">27497072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Yu C., Chen H., Li Y., Peng Y., Li J., Yang F. Breast cancer classification in pathological images based on hybrid features. Multimedia Tools and Applications . 2019;78(15):21325–21345. doi: 10.1007/s11042-019-7468-9.</Citation>
+<ArticleIdList>
+<ArticleId IdType="doi">10.1007/s11042-019-7468-9</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Manual">
+<PMID Version="1">28260181</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>07</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2022</Year>
+<Month>04</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2038-3312</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Updates in surgery</Title>
+<ISOAbbreviation>Updates Surg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Breast cancer in young women: an overview.</ArticleTitle>
+<Pagination>
+<StartPage>313</StartPage>
+<EndPage>317</EndPage>
+<MedlinePgn>313-317</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s13304-017-0424-1</ELocationID>
+<Abstract>
+<AbstractText>Despite dramatic advances in cancer research setting, breast cancer remains a major health problem and represents currently a top biomedical research priority. Worldwide, breast cancer is the most common cancer affecting women, and its incidence and mortality rates are expected to increase significantly the next years. Recently the researchers' interest has been attracted by breast cancer arising in young women. Current evidence suggests that in women aged <45 years, breast cancer is unquestionably the leading cause of cancer-related deaths. This type of cancer seems to be highly heterogeneous and has potentially aggressive and complex biological features. However, management strategies, recommendations and options are not age based and the 'complex' biology of this type of cancer remains uncertain and unexplored. In this review, we summarize the latest scientific information on breast cancer arising in young women highlighting the heterogeneity and the complex nature of this type of cancer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Anastasiadi</LastName>
+<ForeName>Zoi</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lianos</LastName>
+<ForeName>Georgios D</ForeName>
+<Initials>GD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece. georgiolianos@yahoo.gr.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ignatiadou</LastName>
+<ForeName>Eleftheria</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harissis</LastName>
+<ForeName>Haralampos V</ForeName>
+<Initials>HV</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mitsis</LastName>
+<ForeName>Michail</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, School of Medicine, University of Ioannina, Ioannina, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2017</Year>
+<Month>03</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>Updates Surg</MedlineTA>
+<NlmUniqueID>101539818</NlmUniqueID>
+<ISSNLinking>2038-131X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+<QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D001943" MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+<QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+<QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+<QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+<QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Breast cancer</Keyword>
+<Keyword MajorTopicYN="N">Guidelines</Keyword>
+<Keyword MajorTopicYN="N">Next-generation sequencing analyses</Keyword>
+<Keyword MajorTopicYN="N">Personalized cancer medicine</Keyword>
+<Keyword MajorTopicYN="N">Tumor heterogeneity</Keyword>
+<Keyword MajorTopicYN="N">Young woman</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">28260181</ArticleId>
+<ArticleId IdType="doi">10.1007/s13304-017-0424-1</ArticleId>
+<ArticleId IdType="pii">10.1007/s13304-017-0424-1</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Breast Cancer Res. 2014 Aug 27;16(4):427</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25436920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Jul 10;26(20):3324-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18612148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2015 Nov 19;527(7578):S114-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26580160</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Dis. 2013 Jun;5 Suppl 1:S19-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23819023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2014 Jan-Feb;64(1):52-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24114568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Metastasis Rev. 2016 Mar;35(1):49-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26951551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2004 Nov 17;4:82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15546499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2010;12(5):212</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21067532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Onco Targets Ther. 2014 Mar 24;7:491-500</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24711706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Breast Cancer. 2014 Dec;17(4):301-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25548576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2011 Nov;130(2):499-505</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21853352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mod Pathol. 2016 May;29(5):476-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26939876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 May 16;486(7403):400-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22722201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Jan 1;29(1):e18-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21115855</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Future Oncol. 2014 Feb;10(2):145-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24490597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009 Nov 11;4(11):e7695</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19907646</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rep Pract Oncol Radiother. 2013 May 24;18(4):193-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24416553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1996 Jan 1;77(1):97-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8630946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Updates Surg. 2016 Jun;68(2):149-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26826083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2011 May;20(5):733-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21357727</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

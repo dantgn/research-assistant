@@ -12,6 +12,19 @@ We use Artificial Intelligence to extract key information from scientific articl
 - Discovering relevant research articles
 - Extracting key information from articles
 
+### Start the server
+
+To start the server locally just run `rails server`
+
+### Running Tests
+
+We use RSpec for testing.
+
+In order to test locally just run `rspec`
+
+- If you want to test an specific service run: `rspec spec/services/pubmed/find_articles_spec.rb`
+- To test a single spec add the line number at the end: `rspec spec/services/pubmed/find_articles_spec.rb:33`
+
 <br>
 
 ###  API Endpoints

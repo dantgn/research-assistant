@@ -52,4 +52,7 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem 'rubocop-rails-omakase', require: false
+
+  gem 'rspec-rails', '~> 8.0', '>= 8.0.2'
+  gem 'webmock', '~> 3.26', '>= 3.26.1'
 end

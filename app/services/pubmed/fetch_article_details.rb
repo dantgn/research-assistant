@@ -14,6 +14,7 @@ module Pubmed
 
     # Search for Articles information from Pubmed database based on their pmids
     def call
+      validate_params
       response = HTTParty.get(request_uri)
       raise PubmedError, "PubMed API error (#{response.code}): #{response.body}" unless response.success?
 
@@ -21,6 +22,12 @@ module Pubmed
     end
 
     private
+
+    def validate_params
+      return if ids.present?
+
+      raise ArgumentError, 'Ids is empty, please provide a list of Article Ids.'
+    end
 
     # Build pubmed uri where we will request the article ids
     def request_uri

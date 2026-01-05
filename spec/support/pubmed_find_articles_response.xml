@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eSearchResult>
+  <Count>569206</Count>
+  <RetMax>5</RetMax>
+  <RetStart>0</RetStart>
+  <IdList>
+    <Id>32361569</Id>
+    <Id>35243878</Id>
+    <Id>35115765</Id>
+    <Id>34595234</Id>
+    <Id>28260181</Id>
+  </IdList>
+  <TranslationSet>
+    <Translation>
+      <From>breast cancer</From>
+      <To>"breast neoplasms"[MeSH Terms] OR ("breast"[All Fields] AND "neoplasms"[All Fields]) OR "breast neoplasms"[All Fields] OR ("breast"[All Fields] AND "cancer"[All Fields]) OR "breast cancer"[All Fields]</To>
+    </Translation>
+  </TranslationSet>
+  <QueryTranslation>"breast neoplasms"[MeSH Terms] OR ("breast"[All Fields] AND "neoplasms"[All Fields]) OR "breast neoplasms"[All Fields] OR ("breast"[All Fields] AND "cancer"[All Fields]) OR "breast cancer"[All Fields]</QueryTranslation>
+</eSearchResult>

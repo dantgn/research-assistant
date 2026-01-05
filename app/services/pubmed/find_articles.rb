@@ -15,6 +15,8 @@ module Pubmed
 
     # Search for Articles in Pubmed database based on a search query
     def call
+      validate_params
+
       response = HTTParty.get(request_uri)
       raise PubmedError, "PubMed API error (#{response.code}): #{response.body}" unless response.success?
 
@@ -22,6 +24,12 @@ module Pubmed
     end
 
     private
+
+    def validate_params
+      return if search_query.present?
+
+      raise ArgumentError, 'Search query is missing, please tell us what to look for.'
+    end
 
     # Build pubmed uri where we will request the article ids
     def request_uri

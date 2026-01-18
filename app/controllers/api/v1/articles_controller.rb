@@ -10,6 +10,8 @@ module Api
         end
 
         render json: { articles: articles }, status: :ok
+      rescue Pubmed::PubmedError => e
+        render json: { articles: [], error: e.message }, status: 503
       end
 
       private

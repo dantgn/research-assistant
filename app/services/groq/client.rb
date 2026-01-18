@@ -22,7 +22,7 @@ module Groq
         }.to_json,
       )
 
-      raise "Groq API error: #{response.body}" unless response.success?
+      raise GroqError, "Groq API error: #{response.body}" unless response.success?
 
       response.parsed_response
     end

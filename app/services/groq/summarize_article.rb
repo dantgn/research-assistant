@@ -21,6 +21,14 @@ module Groq
 
       summarized_content = response['choices'][0]['message']['content']
       JSON.parse(summarized_content)
+    rescue GroqError => e
+      {
+          objective: "",
+          methodology: "",
+          key_results: "",
+          conclusion: "",
+          error: e.message
+        }
     end
 
     private

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 module Groq
   class CompareArticles
-    COMPARISON_MODEL = "llama-3.1-70b-versatile"
+    AI_MODEL = 'grok-4.3'
 
     def self.compare(papers)
       summaries = papers.map.with_index do |p, i|
@@ -19,8 +19,8 @@ module Groq
       PROMPT
 
       response = GroqClient.chat(
-        model: COMPARISON_MODEL,
-        messages: [
+        model: AI_MODEL,
+        input: [
           { role: "system", content: "You are a biomedical research analyst." },
           { role: "user", content: prompt }
         ]

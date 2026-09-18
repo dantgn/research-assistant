@@ -4,7 +4,7 @@ module Groq
   class SummarizeArticle
     attr_accessor :article
 
-    AI_MODEL = 'llama-3.1-8b-instant'
+    AI_MODEL = 'grok-4.3'
 
     def initialize(article:)
       @article = article
@@ -13,14 +13,19 @@ module Groq
     def call
       response = Groq::Client.chat(
         model: AI_MODEL,
-        messages: [
+        input: [
           { role: 'system', content: 'You are a scientific research assistant.' },
-          { role: 'user', content: ai_message },
+          { role: 'user', content: ai_prompt },
         ],
       )
+      summarized_content = response.dig(
+        'output', 0,
+        'content', 0,
+        'text'
+      )
 
-      summarized_content = response['choices'][0]['message']['content']
       JSON.parse(summarized_content)
+
     rescue GroqError => e
       {
           objective: "",
@@ -33,7 +38,7 @@ module Groq
 
     private
 
-    def ai_message
+    def ai_prompt
       <<~TEXT
         Summarize the following scientific abstract.
         Focus on objective, methodology, key results, and conclusion.

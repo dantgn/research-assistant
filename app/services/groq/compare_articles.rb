@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 module Groq
   class CompareArticles
-    COMPARISON_MODEL = "llama-3.1-70b-versatile"
+    COMPARISON_MODEL = "openai/gpt-oss-120b"
 
     def self.compare(papers)
       summaries = papers.map.with_index do |p, i|

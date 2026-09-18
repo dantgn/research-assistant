@@ -4,7 +4,7 @@ module Groq
   class SummarizeArticle
     attr_accessor :article
 
-    AI_MODEL = 'llama-3.1-8b-instant'
+    AI_MODEL = 'openai/gpt-oss-20b'
 
     def initialize(article:)
       @article = article
